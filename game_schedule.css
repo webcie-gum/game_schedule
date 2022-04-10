@@ -1,3 +1,10 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/sourcesanspro/v19/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
 
 a:link  {
 	color: #F75A08;
@@ -43,35 +50,4 @@ td {
 
 table {
     text-align: left;
-}
-.gd {
-	background: transparent;
-
-  /* text-align: left; */
-}
-.gl {
-  /* background: WHITE; */
-  /*text-align: left; */
-}
-.gh {
-	background: transparent;
-  color: WHITE;
-  font-weight: bold;
-  font-family : Arial;
-  font-size: 12px;
-  text-align: center;
-}
-.bd {
-   background: none transparent
-}
-.msg {
-background: none transparent;
-font-size : 14px;
-}
-.titel {
-
-color : #F75A08;
-}
-.ads {
-
 }
