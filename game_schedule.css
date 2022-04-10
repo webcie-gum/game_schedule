@@ -37,6 +37,10 @@ body,p,table,td,tr {
  background: transparent;
 }
 
+td {
+ padding:8px;
+}
+
 table {
     text-align: left;
 }
