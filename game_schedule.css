@@ -8,12 +8,12 @@ a:visited {
 	color: #FF9933;
 }
 a:active {
-    color: #FF9933;
+  color: #FF9933;
 }
 
 a.route:link {
-    color: #000000;
-    text-decoration: none;
+  color: #000000;
+  text-decoration: none;
 }
 
 .head {
@@ -25,27 +25,41 @@ a.route:link {
   text-align: center;
 }
 .light {
+  background-color: #ffffff;
 
 }
 .dark {
-  background: #e2efd9;
+  background: #ffffff;
+  color:#056635;
 }
 .highlight {
- color : #F75A08;
+  color : #ffffff;
 }
+
+.bd {
+  background-color:#ffffff;
+}
+
 body,p,table,td,tr {
- font-family : 'Source Sans Pro', sans-serif;
- font-weight : normal;
- font-size : 11px;
- background: transparent;
+  font-family : 'Source Sans Pro', sans-serif;
+  font-weight : normal;
+  font-size : 12px;
+  background: transparent;
 }
 
 td {
- padding:8px;
+  padding:8px;
+  border-bottom: 1px solid #ddd;  
+}
+
+
+tr:hover{
+  background-color: #F79131;
 }
 
 table {
-    text-align: left;
+  text-align: left;
+  background-color:#ffffff;
 }
 
 
