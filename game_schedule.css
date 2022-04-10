@@ -15,11 +15,11 @@ a.route:link {
 }
 
 .head {
-  background: #a7d08d;
-  color: BLACK;
+  background: #056635;
+  color: WHITE;
   font-weight: bold;
   font-family : Arial;
-  font-size : 12px;
+  font-size : 14px;
   text-align: center;
 }
 .light {
