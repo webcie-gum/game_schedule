@@ -21,7 +21,7 @@ a.route:link {
   color: WHITE;
   font-weight: bold;
   font-family : 'Source Sans Pro', sans-serif;
-  font-size : 14px;
+  font-size : 16px;
   text-align: center;
 }
 .light {
@@ -43,7 +43,7 @@ a.route:link {
 body,p,table,td,tr {
   font-family : 'Source Sans Pro', sans-serif;
   font-weight : normal;
-  font-size : 12px;
+  font-size : 14px;
   background: transparent;
 }
 
