@@ -40,6 +40,10 @@ a.route:link {
   background-color:#ffffff;
 }
 
+table{
+  width:100%;
+}
+
 body,p,table,td,tr {
   font-family : 'Source Sans Pro', sans-serif;
   font-weight : normal;
